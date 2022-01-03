@@ -1,5 +1,5 @@
 # Projeto Aplicativo clima
-Para ver o projeto ao vivo, [clique aqui] ([https://maisafolgueral.github.io/appclima/]).
+Para ver o projeto ao vivo, [clique aqui](https://maisafolgueral.github.io/appclima/).
 
 ![Project Preview](https://github.com/maisafolgueral/appclima/blob/main/Projeto%20APP%20Clima.png?raw=true)
 
